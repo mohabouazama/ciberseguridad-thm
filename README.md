@@ -1,6 +1,3 @@
-# ciberseguridad-thm
-Mi progreso en TryHackMe mientras aprendo ciberseguridad ofensiva.
-
 # Progreso en TryHackMe - Mohamed Bouazama
 
 🧠 Aprendiendo ciberseguridad desde cero  
